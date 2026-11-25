@@ -1,0 +1,11 @@
+{
+  "name": "freehold",
+  "version": "0.1.0",
+  "description": "Agent skills for Freehold software: the standard, building each grade (desktop, cloud hub, web portal, PWA), deploying to the person's own provider, security, and administration.",
+  "homepage": "https://freeholders.org",
+  "license": "MIT",
+  "author": {
+    "name": "freeholders.org",
+    "url": "https://freeholders.org"
+  }
+}

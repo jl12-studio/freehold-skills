@@ -1,0 +1,14 @@
+{
+  "name": "freehold-skills",
+  "description": "Agent skills for building, deploying and running Freehold software.",
+  "owner": {
+    "name": "freeholders.org"
+  },
+  "plugins": [
+    {
+      "name": "freehold",
+      "source": "./",
+      "description": "Agent skills for Freehold software: the standard, building each grade, deploying to the person's own provider, security, and administration."
+    }
+  ]
+}
